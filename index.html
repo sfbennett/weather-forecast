@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather</title>
+    <link href="style.css" rel="stylesheet" />
+    <script defer="" src="index.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Weather Forecast App</h1>
+    </header>
+    <label>
+      Select location:
+      <select name="location" class="location">
+        <option value="brighton">Brighton</option>
+        <option value="london">London</option>
+        <option value="japan">Japan</option>
+        <option value="italy">Italy</option>
+        <option value="thailand">Thailand</option>
+        <option value="california">California</option>
+      </select>
+    </label>
+    <button class="search">Fetch weather!</button>
+    <div class="weather">
+      <p>Min temperature: <span class="min-temperature"></span></p>
+      <p>Max temperature: <span class="max-temperature"></span></p>
+      <p>Max wind speed: <span class="max-wind-speed"></span></p>
+      <p>Rain sum: <span class="rain-sum"></span></p>
+      <p>Sunset: <span class="sunset"></span></p>
+      <p>UV index: <span class="uv-index"></span></p>
+    </div>
+  </body>
+</html>
