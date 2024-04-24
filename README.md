@@ -6,9 +6,9 @@ This is a simple weather forecast app created to test out the Open Meteo Weather
 
 The page fetches accurate weather forecast information such as minimum and maximum temperature, maximum wind speed, rain sum, sunset time, and UV index. It presents this information for specific locations that you can select from the drop-down list. 
 
-<img width="677" alt="image" src="https://github.com/sfbennett/weather-forecast/assets/156936136/fb188a5e-d21e-45d4-8ed6-435e3cb256d9">
+<img width="400" alt="image" src="https://github.com/sfbennett/weather-forecast/assets/156936136/fb188a5e-d21e-45d4-8ed6-435e3cb256d9">
 
-<img width="661" alt="image" src="https://github.com/sfbennett/weather-forecast/assets/156936136/33f47b04-486d-4cc5-b469-e48b86d9621c">
+<img width="400" alt="image" src="https://github.com/sfbennett/weather-forecast/assets/156936136/33f47b04-486d-4cc5-b469-e48b86d9621c">
 
 ## Technologies Used 
 
