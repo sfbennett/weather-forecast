@@ -8,8 +8,6 @@ The page fetches accurate weather forecast information such as minimum and maxim
 
 <img width="400" alt="image" src="https://github.com/sfbennett/weather-forecast/assets/156936136/fb188a5e-d21e-45d4-8ed6-435e3cb256d9">
 
-<img width="400" alt="image" src="https://github.com/sfbennett/weather-forecast/assets/156936136/33f47b04-486d-4cc5-b469-e48b86d9621c">
-
 ## Technologies Used 
 
 * HTML
